@@ -1,0 +1,18 @@
+package com.sythiex.modularpipes;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+
+public class CreativeTabMP extends CreativeTabs
+{
+	public CreativeTabMP(String name)
+	{
+		super(name);
+	}
+	
+	@Override
+	public Item getTabIconItem()
+	{
+		return null;
+	}
+}

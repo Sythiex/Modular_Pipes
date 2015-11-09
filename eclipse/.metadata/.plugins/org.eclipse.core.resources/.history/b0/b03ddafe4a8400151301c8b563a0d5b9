@@ -1,0 +1,19 @@
+package com.sythiex.modularpipes.network;
+
+import com.sythiex.modularpipes.render.TileEntityPipeRenderer;
+import com.sythiex.modularpipes.tileentities.TileEntityPipe;
+
+import cpw.mods.fml.client.registry.ClientRegistry;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+
+public class ClientProxyMP extends CommonProxyMP
+{
+	@EventHandler
+	public void init(FMLInitializationEvent event)
+	{
+		System.out.println("init XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxx");
+		super.init(event);
+		ClientRegistry.bindTileEntitySpecialRenderer(TileEntityPipe.class, new TileEntityPipeRenderer());
+	}
+}

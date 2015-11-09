@@ -1,0 +1,26 @@
+1446756932044	Delete element
+1446760374527	Delete element
+1446760727303	Delete element
+1446761888960	Move compilation unit
+1446761893924	Delete element
+1446761946689	Move compilation unit
+1446761991891	Rename type 'blockPipe'
+1446769169394	Delete elements
+1446774242121	Delete elements
+1446774965395	Delete elements
+1446778660440	Rename package 'com.sythiex.modularpipes.tile'
+1446778682044	Rename package 'com.sythiex.modularpipes.tileentity'
+1446855612352	Rename local variable 'te'
+1446856009309	Rename field 'model'
+1446859175571	Rename local variable 'textures'
+1446859189764	Rename local variable 'texture1'
+1446872656934	Rename method 'updateConnections'
+1446883145628	Delete element
+1446883149909	Delete element
+1446883945934	Rename local variable 'p_149696_1_'
+1446883950469	Rename local variable 'p_149696_2_'
+1446883954504	Rename local variable 'p_149696_3_'
+1446883960542	Rename local variable 'p_149696_4_'
+1446884034561	Rename local variable 'p_149696_5_'
+1446884045664	Rename local variable 'p_149696_6_'
+1446939970023	Rename method 'getPipeBoundingBox'

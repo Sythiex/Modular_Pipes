@@ -1,0 +1,10 @@
+package com.sythiex.modularpipes.network;
+
+public class CommonProxyMP
+{
+	@EventHandler
+	public void init(FMLInitializationEvent event)
+	{
+	
+	}
+}

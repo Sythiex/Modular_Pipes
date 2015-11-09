@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="collisionRayTrace" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="collisionRayTrace"/>
+			<item value="part"/>
+			<item value="getSelectedBoundingBoxFromPool"/>
+			<item value="matrix"/>
+			<item value="public void addCollisionBoxesToList(World p_149743_1_, int p_149743_2_, int p_149743_3_, int p_149743_4_, AxisAlignedBB p_149743_5_, List p_149743_6_, Entity p_149743_7_)"/>
+			<item value="CoreConstants.PIPE_MAX_POS"/>
+			<item value="CoreConstants.PIPE_MIN_POS"/>
+			<item value="boundingbox"/>
+		</list>
+		<list key="replacehistory">
+			<item value="0.75F"/>
+			<item value="0.25F"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="353" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="513" key="DIALOG_HEIGHT"/>
+		<item value="1473" key="DIALOG_X_ORIGIN"/>
+		<item value="548" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
