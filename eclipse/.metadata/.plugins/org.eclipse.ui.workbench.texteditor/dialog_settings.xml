@@ -2,20 +2,20 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="collisionRayTrace" key="selection"/>
+		<item value="toString" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="toString"/>
+			<item value="tostring"/>
+			<item value="iinventory"/>
+			<item value="system"/>
+			<item value="nbt"/>
+			<item value="read"/>
 			<item value="collisionRayTrace"/>
 			<item value="part"/>
-			<item value="getSelectedBoundingBoxFromPool"/>
-			<item value="matrix"/>
-			<item value="public void addCollisionBoxesToList(World p_149743_1_, int p_149743_2_, int p_149743_3_, int p_149743_4_, AxisAlignedBB p_149743_5_, List p_149743_6_, Entity p_149743_7_)"/>
-			<item value="CoreConstants.PIPE_MAX_POS"/>
-			<item value="CoreConstants.PIPE_MIN_POS"/>
-			<item value="boundingbox"/>
 		</list>
 		<list key="replacehistory">
 			<item value="0.75F"/>

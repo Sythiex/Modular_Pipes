@@ -3,7 +3,7 @@ package com.sythiex.modularpipes.render;
 import org.lwjgl.opengl.GL11;
 
 import com.sythiex.modularpipes.ModularPipes;
-import com.sythiex.modularpipes.tileentities.TileEntityPipe;
+import com.sythiex.modularpipes.transport.TileEntityPipe;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.entity.Entity;

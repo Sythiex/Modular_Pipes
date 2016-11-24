@@ -1,8 +1,8 @@
 package com.sythiex.modularpipes;
 
-import com.sythiex.modularpipes.blocks.BlockPipe;
 import com.sythiex.modularpipes.network.CommonProxyMP;
-import com.sythiex.modularpipes.tileentities.TileEntityPipe;
+import com.sythiex.modularpipes.transport.BlockPipe;
+import com.sythiex.modularpipes.transport.TileEntityPipe;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
@@ -24,7 +24,7 @@ public class ModularPipes
 	
 	public static final String MODID = "modularpipes";
 	public static final String VERSION = "0.1.0";
-		
+	
 	public static CreativeTabs tabMP = new CreativeTabMP("modularpipes");
 	
 	public static Block modularPipe;

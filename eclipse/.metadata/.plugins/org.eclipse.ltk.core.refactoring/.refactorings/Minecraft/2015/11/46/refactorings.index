@@ -1,0 +1,14 @@
+1447104127296	Move compilation unit
+1447104140275	Move compilation unit
+1447104150831	Delete element
+1447104157558	Delete element
+1447111332288	Rename field 'timeBeforeNextTravel'
+1447111892661	Rename field 'travelSpeed'
+1447112866760	Rename local variable 'travelingItem'
+1447113653347	Rename method 'addItem'
+1447119981772	Rename local variable 'instrucTag'
+1447122399641	Rename local variable 'tile'
+1447204007921	Delete element
+1447206300357	Delete element
+1447207943807	Delete element
+1447228859686	Rename method 'extractItemStackFromSlot'
